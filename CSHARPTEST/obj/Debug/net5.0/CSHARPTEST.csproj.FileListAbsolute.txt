@@ -1,0 +1,16 @@
+C:\Users\snipe\Desktop\CSHARPTEST\bin\Debug\net5.0\CSHARPTEST.exe
+C:\Users\snipe\Desktop\CSHARPTEST\bin\Debug\net5.0\CSHARPTEST.deps.json
+C:\Users\snipe\Desktop\CSHARPTEST\bin\Debug\net5.0\CSHARPTEST.runtimeconfig.json
+C:\Users\snipe\Desktop\CSHARPTEST\bin\Debug\net5.0\CSHARPTEST.runtimeconfig.dev.json
+C:\Users\snipe\Desktop\CSHARPTEST\bin\Debug\net5.0\CSHARPTEST.dll
+C:\Users\snipe\Desktop\CSHARPTEST\bin\Debug\net5.0\ref\CSHARPTEST.dll
+C:\Users\snipe\Desktop\CSHARPTEST\bin\Debug\net5.0\CSHARPTEST.pdb
+C:\Users\snipe\Desktop\CSHARPTEST\obj\Debug\net5.0\CSHARPTEST.csprojAssemblyReference.cache
+C:\Users\snipe\Desktop\CSHARPTEST\obj\Debug\net5.0\CSHARPTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snipe\Desktop\CSHARPTEST\obj\Debug\net5.0\CSHARPTEST.AssemblyInfoInputs.cache
+C:\Users\snipe\Desktop\CSHARPTEST\obj\Debug\net5.0\CSHARPTEST.AssemblyInfo.cs
+C:\Users\snipe\Desktop\CSHARPTEST\obj\Debug\net5.0\CSHARPTEST.csproj.CoreCompileInputs.cache
+C:\Users\snipe\Desktop\CSHARPTEST\obj\Debug\net5.0\CSHARPTEST.dll
+C:\Users\snipe\Desktop\CSHARPTEST\obj\Debug\net5.0\ref\CSHARPTEST.dll
+C:\Users\snipe\Desktop\CSHARPTEST\obj\Debug\net5.0\CSHARPTEST.pdb
+C:\Users\snipe\Desktop\CSHARPTEST\obj\Debug\net5.0\CSHARPTEST.genruntimeconfig.cache
