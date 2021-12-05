@@ -8,7 +8,11 @@ __inline extern void inlineFunc(int number)
     printf("%d\n", number);
 }
 
-extern void Func(char *string)
+extern void ExternalFunc(char *string)
+{
+    printf("%s\n", string);
+}
+void stdFunc(char *string)
 {
     printf("%s\n", string);
 }

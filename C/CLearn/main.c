@@ -14,9 +14,8 @@ enum Number
     number0,
     number1,
     number2,
-    number3,               //COC CLANGD IS CURRENTLY CHANGING SOME SYTAX COLORING FIGURE OUT A WAY TO CHANGE THEM
-}numberX;                  //THE ONE DOING THE MOST CHANGE IS TSVariable which is = to RedItalic 
-                           // Us :hi to see what the variables are
+    number3,               
+}numberX; //Figure out what numberX is 
 
 enum elogic{false, true}; //because of the position of the identifiers false = 0, true = 1
 
@@ -25,7 +24,7 @@ struct testStruct
 {
     xInt x; //Structs can use previously defined typedef   
     int y;  //Structs can have multiple variables
-    struct otherStruct
+    struct otherStruct //Nested Struct
     {
         char xChar;
         _Bool xTrue;
@@ -74,7 +73,7 @@ int main()
         printf("false\n");
     }
     
-    Func("String Func"); //Testing Functions from another C file
+    //stdFunc("String Func"); //Testing Functions from another C file
     
     //Testing Comments \
     this line is commented out \
@@ -92,7 +91,7 @@ int main()
     printf("%d\n", myNumber);
     
     enum Number xNumber = numberX; //Figure out what numberX is doing in Enum (i just want to know) why i can do that
-    printf("%d\n", xNumber);
+    printf("Printing numberX: %d\n Printing number2: %d\n", xNumber, number2);
     
     //Struct testing
     mainTestStruct.x = 5;
@@ -104,10 +103,45 @@ int main()
     for(int a = 0; a < set; a++)
     {
         printf("For Loop %d\n", a);
-    }
+   }
     
     char string[] = "This is a string"; //set string using an array (all strings in C are an array of characters
     printf("%s\n", string);
+    
+    //Hello Github
+    //External and Global Variable Testing
+    printf("External and Global Variable Testing\n");
+    ExternalFunc(string);
+    stdFunc(string);
+
+
+
+
+
+
+
+
+
+
+
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
